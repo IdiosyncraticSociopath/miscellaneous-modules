@@ -1,0 +1,3 @@
+[submodule "src/lua-nums"]
+	path = src/lua-nums
+	url = https://github.com/IdiosyncraticSociopath/lua-nums
